@@ -1,35 +1,52 @@
-# GlowCart - Beauty E-commerce App
+# 🌸 GlowCart - Beauty E-Commerce App  
 
-A React Native CLI application for beauty and cosmetic products.
+A **React Native CLI** application for beauty and cosmetic products.
 
-## Public GitHub Repository Link
+---
 
-[text](https://github.com/Prashant059/GlowCart_E-Commerce)
+## 📂 1. Public GitHub Repository Link  
+🔗 [**GlowCart_E-Commerce**](https://github.com/Prashant059/GlowCart_E-Commerce)  
 
-# Setup Instructions
+---
 
-# Prerequisites: Node.js, npm/yarn, Android Studio/Xcode set up
+## ⚙️ 2. Setup & Run Instructions  
 
+### **Prerequisites**  
+Make sure you have installed:  
+- **Node.js** & **npm** (or Yarn)  
+- **React Native CLI**  
+- **Android Studio** / **Xcode** (for emulators)  
+
+---
+
+### **Steps to Setup and Run**  
+```bash
 # Clone the repository
-
 git clone https://github.com/Prashant059/GlowCart_E-Commerce.git
+
+# Go inside the project folder
 cd GlowCart_E-Commerce
 
 # Install dependencies
-
-npm install # ya phir: yarn
+npm install
+# OR
+yarn
 
 # Start Metro Bundler
-
-npm start # ya phir: yarn start
+npm start
+# OR
+yarn start
 
 # Run on Android
+npm run android
+# OR
+yarn android
 
-npm run android # ya phir: yarn android
+# Run on iOS (Mac only)
+npm run ios
+# OR
+yarn ios
 
-# (Optional) Run on iOS - Mac par:
-
-npm run ios # ya phir: yarn ios
 
 ## 📸 Screenshots
 
@@ -49,13 +66,9 @@ Below are screenshots of the GlowCart app UI, labeled by screen:
   </tr>
 </table>
 
-## ⏱️ Development Time
+## ⏱️ Time Takes
 
-Approximate time spent on development:
+Approximate Development Time:
 
-- **Initial Setup & Architecture**: 2 hours
-- **Component Development**: 4 hours
-- **Screen Implementation**: 6 hours
-- **API Integration**: 2 hours
-- **Testing & Refinements**: 2 hours
-- **Total Time**: ~16 hours
+- **Total Time**: 24 hours
+
