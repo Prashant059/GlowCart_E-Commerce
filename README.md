@@ -20,33 +20,43 @@ Make sure you have installed:
 ---
 
 ### **Steps to Setup and Run**  
+### 1. Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Prashant059/GlowCart_E-Commerce.git
-
-# Go inside the project folder
+```
+### 2. Go inside the project folder
+```bash
 cd GlowCart_E-Commerce
+```
 
-# Install dependencies
+### 3. Install dependencies
+```bash
 npm install
 # OR
 yarn
+```
 
-# Start Metro Bundler
+### 4. Start Metro Bundler
+```bash
 npm start
 # OR
 yarn start
+```
 
-# Run on Android
+### 5. Run on Android
+```bash
 npm run android
 # OR
 yarn android
+```
 
-# Run on iOS (Mac only)
+### 6. Run on iOS (Mac only)
+```bash
 npm run ios
 # OR
 yarn ios
-
+```
+---
 
 ## 📸 Screenshots
 
@@ -65,6 +75,8 @@ Below are screenshots of the GlowCart app UI, labeled by screen:
     <td align="center"><b>Product Details</b><br><img src="ScreenShot/ProductDetail.png" alt="Product Details Screen" width="200" /></td>
   </tr>
 </table>
+
+---
 
 ## ⏱️ Time Takes
 
