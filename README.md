@@ -62,17 +62,17 @@ yarn ios
 
 Below are screenshots of the GlowCart app UI, labeled by screen:
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><b>Onboarding</b><br><img src="ScreenShot/OnBoarding.png" alt="Onboarding Screen" width="200" /></td>
-    <td align="center"><b>Login</b><br><img src="ScreenShot/Login.png" alt="Login Screen" width="200" /></td>
-    <td align="center"><b>Register</b><br><img src="ScreenShot/Register.png" alt="Register Screen" width="200" /></td>
-    
+    <td align="center"><b>Onboarding</b><br><img src="Screenshot/OnBoarding.png" alt="Onboarding Screen" width="200" /></td>
+    <td align="center"><b>Login</b><br><img src="Screenshot/Login.png" alt="Login Screen" width="200" /></td>
+    <td align="center"><b>Register</b><br><img src="Screenshot/Register.png" alt="Register Screen" width="200" /></td> 
   </tr>
+
   <tr>
-  <td align="center"><b>Profile</b><br><img src="ScreenShot/Profile.png" alt="Profile" width="200" /></td>
-    <td align="center"><b>Product List</b><br><img src="ScreenShot/ProductList.png" alt="Product List" width="200" /></td>
-    <td align="center"><b>Product Details</b><br><img src="ScreenShot/ProductDetail.png" alt="Product Details Screen" width="200" /></td>
+  <td align="center"><b>Profile</b><br><img src="Screenshot/Profile.png" alt="Profile" width="200" /></td>
+    <td align="center"><b>Product List</b><br><img src="Screenshot/ProductList.png" alt="Product List" width="200" /></td>
+    <td align="center"><b>Product Details</b><br><img src="Screenshot/ProductDetail.png" alt="Product Details Screen" width="200" /></td>
   </tr>
 </table>
 
